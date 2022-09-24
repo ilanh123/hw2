@@ -214,18 +214,6 @@ table td {
         padding-right: 10px !important;
         width: 30% !important;
     }
-
-   form {
-        margin: 20px;
-    }
-    
-    .input {
-        width: 80%;
-    }
-
-    .input-message {
-        width: 80%;
-    }
     
     #video {
         width: 100%;
