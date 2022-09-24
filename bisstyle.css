@@ -203,6 +203,10 @@ table td {
         top: 5%;
     }
 
+    .Welcome h1 {
+        font-size: 70px;
+    }
+    
     td {
         padding-left: 10px !important;
         padding-right: 10px !important;
