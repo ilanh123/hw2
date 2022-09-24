@@ -192,14 +192,9 @@ table td {
      nav {
 /*         font-size: 6px; */
     }
-
-    ul li {
-        
-    }
     
     ul li a {
-        font-size: 8px !important;
-        width: 100vh !important;
+        font-size: 12px !important;
     }
     
     .Welcome h2 {
