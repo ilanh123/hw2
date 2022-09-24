@@ -189,8 +189,8 @@ table td {
 
 /* Media Query for responsive website */
 @media screen and (max-width: 600px) {
-     nav {
-/*         font-size: 6px; */
+    ul li {
+        display: inline-block;
     }
     
     ul li a {
