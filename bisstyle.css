@@ -214,9 +214,9 @@ table td {
         width: 30% !important;
     }
 
-    form {
-        margin: 25px;
-        width: fit-content;
+   form {
+        overflow: hidden;
+        margin: 20px;
     }
     
     .input {
