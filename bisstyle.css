@@ -195,8 +195,11 @@ table td {
         text-align: center;
     }
 
-    u li a {
+     u li a {
         padding: 0 4px;
+        font-size: 6px;
+        text-align: center;
+        width: 100vh;
     }
 
     .Welcome h2 {
