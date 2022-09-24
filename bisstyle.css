@@ -191,6 +191,8 @@ table td {
 @media screen and (max-width: 600px) {
     nav {
         width: 100%;
+        font-size: 6px;
+        text-align: center;
     }
 
     u li a {
@@ -215,17 +217,17 @@ table td {
     #video {
         width: 100%;
     }
+
     .content p2 {
-        font-size: 25px;
+        font-size: 15px;
     }
 
     table p {
         padding: 6px 6px;
-        font-size: 25px;
+        font-size: 13px;
     }
 
     table img {
-        width: 100% !important;
-        height: 100vh !important;
+        background-color: rgb(201, 255, 255); 
     }
 }
