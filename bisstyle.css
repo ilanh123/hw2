@@ -196,9 +196,9 @@ table td {
 
     u li a {
         padding: 0 4px;
-        font-size: 8px;
+        font-size: 8px !important;
         text-align: center;
-        width: 100vh;
+        width: 100vh !important;;
     }
     
     ul li {
