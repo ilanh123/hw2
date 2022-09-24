@@ -80,7 +80,6 @@ ul li a:hover {
 form {
     margin: 100px;
     background-position: center;
-    overflow: hidden;
 }
 
 .input {
@@ -193,6 +192,7 @@ table td {
     
     nav {
         width: 100%;
+        overflow: hidden !important;
     }
     
     ul li a {
@@ -212,10 +212,16 @@ table td {
     
     .input {
         width: 80%;
+        overflow: hidden !important;
+    }
+    
+    form {
+        overflow: hidden !important;
     }
 
     .input-message {
         width: 80%;
+        overflow: hidden !important;
     }
     
     td {
