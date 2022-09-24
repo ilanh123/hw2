@@ -190,7 +190,7 @@ table td {
 /* Media Query for responsive website */
 @media screen and (max-width: 600px) {
     * {
-        overflow: hidden !important;
+        overflow: hidden;
     }
     
     nav {
