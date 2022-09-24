@@ -202,7 +202,7 @@ table td {
     
     .Welcome h2 {
         top: 5%;
-        margin-bottom: 5%;
+        padding-bottom: 5px;
     }
 
     .Welcome h1 {
