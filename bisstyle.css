@@ -189,6 +189,9 @@ table td {
 
 /* Media Query for responsive website */
 @media screen and (max-width: 600px) {
+    * {
+        overflow: hidden !important;
+    }
     
     nav {
         width: 100%;
@@ -212,7 +215,6 @@ table td {
     
     .input {
         width: 80%;
-        overflow: hidden !important;
     }
     
     form {
@@ -221,7 +223,6 @@ table td {
 
     .input-message {
         width: 80%;
-        overflow: hidden !important;
     }
     
     td {
