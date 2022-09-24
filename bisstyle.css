@@ -196,6 +196,7 @@ table td {
     
     ul li a {
         font-size: 12px !important;
+        display: contents !important;
     }
     
     .Welcome h2 {
