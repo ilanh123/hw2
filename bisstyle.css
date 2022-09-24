@@ -209,6 +209,14 @@ table td {
         font-size: 70px;
     }
     
+    .input {
+        width: 80%;
+    }
+
+    .input-message {
+        width: 80%;
+    }
+    
     td {
         padding-left: 10px !important;
         padding-right: 10px !important;
