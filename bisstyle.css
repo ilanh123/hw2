@@ -219,6 +219,14 @@ table td {
         width: fit-content;
     }
     
+    .input {
+        width: 100%;
+    }
+
+    .input-message {
+        width: 100%;
+    }
+    
     #video {
         width: 100%;
     }
