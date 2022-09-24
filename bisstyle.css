@@ -189,22 +189,14 @@ table td {
 
 /* Media Query for responsive website */
 @media screen and (max-width: 600px) {
-    nav {
+     nav {
         font-size: 6px;
-        text-align: center;
     }
 
     u li a {
-        padding: 0 4px;
         font-size: 8px !important;
-        text-align: center;
-        width: 100vh !important;;
+        width: 100vh !important;
     }
-    
-    ul li {
-        margin-left: 40px;
-    }
-
     .Welcome h2 {
         top: 5%;
     }
