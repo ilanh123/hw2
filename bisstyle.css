@@ -175,6 +175,7 @@ table img {
 
 table td {
     width: 50%;
+    padding-bottom: 6px;
 }
 /* Our services end */
 
@@ -238,11 +239,10 @@ table td {
 
     table p {
         padding: 6px 6px;
-        padding-bottom: 6px !important;
         font-size: 13px;
     }
 
     table img {
-        width: 100%
+       width: fit-content
     }
 }
