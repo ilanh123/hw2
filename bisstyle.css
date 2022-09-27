@@ -243,7 +243,6 @@ table td {
     }
 
     table img {
-        display: none;
-        background-color: rgb(201, 255, 255); 
+        width: 100%
     }
 }
