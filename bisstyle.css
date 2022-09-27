@@ -240,7 +240,10 @@ table td {
 
     table p {
         padding: 6px 6px;
-        padding-bottom: 6px;
         font-size: 13px;
     }
+    
+    #footer {
+        padding-top: 9px;
+   }
 }
