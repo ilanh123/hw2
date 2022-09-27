@@ -226,7 +226,6 @@ table td {
     td {
         padding-left: 10px !important;
         padding-right: 10px !important;
-        padding-bottom: 10px !important;
         width: 30% !important;
         background-color: rgb(201, 255, 255);
     }
@@ -241,6 +240,7 @@ table td {
 
     table p {
         padding: 6px 6px;
+        padding-bottom: 6px;
         font-size: 13px;
     }
 }
